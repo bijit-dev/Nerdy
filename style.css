@@ -7,3 +7,9 @@ body{
     font-family: "IBM Plex Sans", sans-serif;
     background-color: #F2F4F6;
 }
+.bg-img{
+    background-image: url('images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
